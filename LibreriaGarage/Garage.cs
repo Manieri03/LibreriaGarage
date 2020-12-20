@@ -8,7 +8,7 @@ namespace LibreriaGarage
 
         public bool Parcheggiata(Auto a)
         {
-            for
+             
         }
     }
 }
